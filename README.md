@@ -1,7 +1,6 @@
 # Simulador do problema de Josephus 
-<div style="text-align: center;">
-    <img src="assets/exemplo_simulacao.gif" alt="Gif mostrando um exemplo de execução da aplicação" />
-</div> 
+
+  <img src="assets/exemplo_simulacao.gif" alt="Gif mostrando um exemplo de execução da aplicação" style="display: block; margin: 0 auto;" />
 
 Este repositório contém os artefatos desenvolvidos para uma aplicação em Java que simula, de forma gráfica e interativa, o Problema de Josephus.
 
