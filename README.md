@@ -1,5 +1,5 @@
 # Simulador do problema de Josephus 
-<div style="text-align: center; width: 375px; height: 400px;">
+<div style="text-align: center;">
     <img src="assets/exemplo_simulacao.gif" alt="Gif mostrando um exemplo de execução da aplicação" />
 </div> 
 
